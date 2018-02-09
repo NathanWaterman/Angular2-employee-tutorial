@@ -1,0 +1,18 @@
+[
+	{"id": 1, "name": "Steve", "gender": "Male", "dept":"retail", "number": 150},
+	{"id": 2, "name": "Steve", "gender": "Female", "dept":"auto" , "number": 200},
+	{"id": 3, "name": "Craig", "gender": "Male", "dept":"shoes" , "number": 750},
+	{"id": 4, "name": "Lindsay", "gender": "Female", "dept":"jewelery" , "number": 665},
+	{"id": 5, "name": "Tom", "gender": "Male", "dept":"food" , "number": 1500},
+	{"id": 6, "name": "Sarah", "gender": "Female", "dept":"retail" , "number": 500},
+	{"id": 7, "name": "Mike", "gender": "Male", "dept":"auto" , "number": 130},
+	{"id": 8, "name": "Kate", "gender": "Female", "dept":"retail" , "number": 700},
+	{"id": 9, "name": "Saquon", "gender": "Male", "dept":"travel" , "number": 300},
+	{"id": 10, "name": "Malcom", "gender": "Female", "dept":"animals" , "number": 90},
+	{"id": 11, "name": "Jeff", "gender": "Male", "dept":"customer service" , "number": 5},
+	{"id": 12, "name": "Lindsay", "gender": "Female", "dept":"food" , "number": 12},
+	{"id": 13, "name": "Geoff", "gender": "Male", "dept":"travel" , "number": 60},
+	{"id": 14, "name": "Kim", "gender": "Female", "dept":"jewelery" , "number": 1200},
+	{"id": 15, "name": "Steve", "gender": "Male", "dept":"video games" , "number": 475},
+	{"id": 16, "name": "Anna", "gender": "Female", "dept":"electronics" , "number": 765}
+]
